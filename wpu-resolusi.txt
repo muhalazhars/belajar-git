@@ -1,2 +1,3 @@
 WPU
 -Belajar Git
+- membuat proyek ecommerce
