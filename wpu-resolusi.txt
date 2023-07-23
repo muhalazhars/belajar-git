@@ -1,3 +1,4 @@
 WPU
 -Belajar Git
-- membuat proyek ecommerce
+- membuat proyek realestate
+- membuat portal
